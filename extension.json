@@ -1,0 +1,10 @@
+{
+    "name": "Imo Better Snowflake Theme",
+    "version": "1.0.0",
+    "authors": ["Filip Brebera <breberaf@gmail.com>"],
+    "description": "Clean modern theme in shades of light blue and white but better than the original one (in my opinion).",
+    "repository": "https://github.com/kariy/snowflake-zed",
+    "themes": {
+        "Smooth": "themes/smooth.json"
+    }
+}
